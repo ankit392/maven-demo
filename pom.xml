@@ -55,12 +55,12 @@
 <repository>
 <id>nexus</id>
 <name>GENIE Releases Nexus Repo</name>
-<url>http://15.207.101.224:8081/repository/genie-release-repo/</url>
+<url>http://15.207.101.224:8081/repository/ankit-release-repo/</url>
 </repository>
 <snapshotRepository>
 <id>nexus</id>
 <name>GENIE IT Snapshots Nexus Repo</name>
-<url>http://15.207.101.224:8081/repository/genie-snapshot-repo/</url>
+<url>http://15.207.101.224:8081/repository/ankit-snapshot-repo/</url>
 </snapshotRepository>
 </distributionManagement>
 
